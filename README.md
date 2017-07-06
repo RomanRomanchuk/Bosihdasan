@@ -1,2 +1,2 @@
-# Bosihdasan
+# Bosohdasan
 Bosohdasan - pysyzdasan )
